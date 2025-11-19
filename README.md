@@ -2,9 +2,9 @@
 ![Repo Banner](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/karia njahi/prime-number-sum-calculator)
-![GitHub stars](https://img.shields.io/github/stars/karia njahi/prime-number-sum-calculator?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/karia njahi/prime-number-sum-calculator)
+![GitHub issues](https://img.shields.io/github/issues/karianjahi/prime-number-sum-calculator)
+![GitHub stars](https://img.shields.io/github/stars/karianjahi/prime-number-sum-calculator?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/karianjahi/prime-number-sum-calculator)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D18.0-green)
 
 ---
