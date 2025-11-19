@@ -9,5 +9,8 @@ User Stories:
 */
 
 const sumPrimes = (num) => {
+    if (num < 2) return 0
     
 }
+
+console.log(sumPrimes(10));
