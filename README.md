@@ -152,7 +152,7 @@ console.log(sumPrimes(977));   // 73156
 
 All requirements are fully met.
 
-## Visual Explanation
+## 🎨 Visual Explanation
 ### 🧠 Concept Diagram
 ```sql
    Number N
