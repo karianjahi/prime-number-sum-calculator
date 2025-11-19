@@ -91,7 +91,7 @@ git clone git@github.com:karianjahi/prime-number-sum-calculator.git
 
 Or using HTTPS:
 ```bash
-git clone https://github.com/karia njahi/prime-number-sum-calculator.git
+git clone https://github.com/karianjahi/prime-number-sum-calculator.git
 ```
 
 Navigate into the repo:
