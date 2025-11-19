@@ -31,4 +31,4 @@ const sumPrimes = (num) => {
 }
 
 // console.log(isPrime(29))
-console.log(sumPrimes(7));
+console.log(sumPrimes(977));
