@@ -25,7 +25,6 @@ Ideal for learning algorithms, mathematics, and problem-solving fundamentals. �
 - [🧩 Example Usage](#-example-usage)
 - [🧪 User Stories](#-user-stories)
 - [🎨 Visual Explanation](#-visual-explanation)
-- [💡 Future Improvements](#-future-improvements)
 - [📜 License](#-license)
 
 ---
