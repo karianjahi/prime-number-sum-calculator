@@ -8,9 +8,23 @@ User Stories:
 3. If the input number is less than 2, the function should return 0.
 */
 
-const sumPrimes = (num) => {
-    if (num < 2) return 0
-    
+const isPrime = (num) => {
+    if (num < 2) return false
+    if (num == 2) return true
+    for (let i=2; i<Math.ceil(num**0.5) + 1; i++){
+        if (num % i === 0) return false
+    }
+    return true
 }
 
-console.log(sumPrimes(10));
+const getAllPrimeNosUpToN = (num) => {
+    let primeNos = [];
+    for (let i=0; i<num+1; i++) 
+        if (isPrime(i)) primeNos.push(i);
+    return primeNos
+}
+
+
+
+// console.log(isPrime(29))
+console.log(getAllPrimeNosUpToN(7));
