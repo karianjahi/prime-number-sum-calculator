@@ -24,7 +24,11 @@ const getAllPrimeNosUpToN = (num) => {
     return primeNos
 }
 
-
+const sumPrimes = (num) => {
+    const primeNos = getAllPrimeNosUpToN(num);
+    return primeNos.reduce((acc, cur) => acc + cur, 0);
+    
+}
 
 // console.log(isPrime(29))
-console.log(getAllPrimeNosUpToN(7));
+console.log(sumPrimes(7));
