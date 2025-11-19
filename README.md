@@ -73,8 +73,9 @@ All written in clean, readable JavaScript with no dependencies.
 prime-number-sum-calculator/
 │
 ├── LICENSE
+├── .gitignore
 ├── README.md
-└── index.js // main logic file
+└── source.js // main logic file
 ```
 
 
